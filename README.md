@@ -16,3 +16,4 @@ Sitio Web: https://www.gecoerp.mx/nomina
 Teléfono : (55) 58613000 (México)
 
 ## Modúlo en desarrollo liberación estimada en agosto del 2018.
+Si deseas colaborar en el proyecto favor de ponerte en contacto al teléfono. 
