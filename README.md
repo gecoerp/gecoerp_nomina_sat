@@ -15,4 +15,4 @@ Sistema de calculo de nómina y timbrado CFDI 3.3 y complemento 1.2 en Odoo y GE
 Sitio Web: https://www.gecoerp.mx/nomina
 Teléfono : (55) 58613000 (México)
 
-## Modúlo en desarrollo liberacion estimada en agosto del 2018.
+## Modúlo en desarrollo liberación estimada en agosto del 2018.
